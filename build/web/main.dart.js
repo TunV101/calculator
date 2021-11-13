@@ -32246,7 +32246,7 @@ O.X0.prototype={
 $0:function(){return this.a.Rl(this.b)},
 $S:0}
 F.zr.prototype={
-N:function(a,b){return new S.qw(new V.t3(null),"Flutter Demo",X.a7L(null,C.iI),null)}}
+N:function(a,b){return new S.qw(new V.t3(null),"Calculator",X.a7L(null,C.iI),null)}}
 V.t3.prototype={
 aT:function(){return new V.Hf(C.m)}}
 V.Hf.prototype={
